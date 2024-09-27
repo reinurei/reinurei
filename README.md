@@ -1,3 +1,3 @@
--👋 Hi, I’m @reinurei
--👀 I’m interested in Creating Web Applications
--😺 I'm new in Github
+- 👋 Hi, I’m @reinurei
+- 👀 I’m interested in Creating Web Applications
+- 😺 I'm new in Github
