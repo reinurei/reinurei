@@ -10,7 +10,24 @@
   <img src="header.svg" width="100%">
 </p>
 
-<br>
+
+
+## Hello, I'm **Raven Reign**! :cherry_blossom:
+
+IT sophomore • Aspiring Data Analyst • Community Leader
+
+I enjoy building software, leading tech communities, and using data and technology to create meaningful impact through inclusivity and women empowerment.
+
+Currently, I serve as the Operations Head of AWSUG Enovators PH and One of the Leads in Build Nights: KiroVerse Workshop Series. I've also had the opportunity to serve as a Program Manager at DEVCON and complete a Quality Assurance Internship at Otis Philippines.
+
+Outside of community work, I'm a Student Assistant at my university's computer laboratory, where I help maintain laboratory computers and support daily technical operations.
+
+<br> 
+
+
+<div align="center">
+  <span style="font-family: Merriweather; font-size: 26px;">Socials</span>
+</div>
 
 <table align="center">
   <tr>
@@ -52,12 +69,11 @@
 </table>
 
 
+<br>
 
-
-<div>
+<div align="center">
   <span style="font-family: Georgia; font-size: 26px;">Tech Stack </span>
 </div>
 
-#
 
 [![My Skills](https://skillicons.dev/icons?i=python,r,java,c,mysql,html,css,js,git,vscode,github)](https://skillicons.dev)
