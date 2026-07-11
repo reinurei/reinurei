@@ -29,44 +29,22 @@ Outside of community work, I'm a Student Assistant at my university's computer l
   <span style="font-family: Georgia, serif; font-size: 26px;">Socials</span>
 </div>
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr>
-    <td align="center" width="140" style="border: none;">
-      <a href="https://www.linkedin.com/in/raven-reign-sabidal-1971a6420/">
-        <img src="./socialicon4.svg" height="60" alt="LinkedIn">
-      </a>
-    </td>
-    <td align="center" width="140" style="border: none;">
-      <a href="https://www.instagram.com/raverein_">
-        <img src="./socialicon3.svg" height="60" alt="Instagram">
-      </a>
-    </td>
-    <td align="center" width="140" style="border: none;">
-      <a href="https://www.facebook.com/rxnreiii">
-        <img src="./socialicon2.svg" height="60" alt="Facebook">
-      </a>
-    </td>
-    <td align="center" width="140" style="border: none;">
-      <a href="mailto:ravenreignsabidal0308@gmail.com">
-        <img src="./socialicon1.svg" height="60" alt="Email">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none;">
-      <b>LinkedIn</b>
-    </td>
-    <td align="center" style="border: none;">
-      <b>Instagram</b>
-    </td>
-    <td align="center" style="border: none;">
-      <b>Facebook</b>
-    </td>
-    <td align="center" style="border: none;">
-      <b>Email</b>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/raven-reign-sabidal-1971a6420/"><img src="./socialicon4.svg" height="60" alt="LinkedIn"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/raverein_"><img src="./socialicon3.svg" height="60" alt="Instagram"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/rxnreiii"><img src="./socialicon2.svg" height="60" alt="Facebook"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ravenreignsabidal0308@gmail.com"><img src="./socialicon1.svg" height="60" alt="Email"></a>
+</p>
+<p align="center">
+  <b>LinkedIn</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Instagram</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Facebook</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Email</b>
+</p>
 
 
 <br>
