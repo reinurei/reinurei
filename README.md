@@ -1,10 +1,10 @@
 # 
 <div align="center">
-  <span style="font-family: Caslon; font-size: 15px;">♡ Elegance in every line of code ♡</span>
+  <span style="font-family: Georgia; font-size: 15px;">♡ Elegance in every line of code ♡</span>
 </div>
 
 <div align="center">
-  <h1 style="font-family: Caslon; font-size: 50px; color: #f7dce7; margin-bottom: 0.rem; letter-spacing: 2px;">
+  <h1 style="font-family: Georgia; font-size: 50px; color: #f7dce7; margin-bottom: 0.rem; letter-spacing: 2px;">
     I'm just a girl 
   </h1>
 
@@ -21,25 +21,25 @@
     <td align="center">
       <img src="socialicon4.svg" width="55"><br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <span style="font-family: Caslon; font-size: 15px; color: #f7dce7;">LinkedIn</span> 
+      <span style="font-family: Georgia; font-size: 15px; color: #f7dce7;">LinkedIn</span> 
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td align="center">
       <img src="socialicon3.svg" width="55"><br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <span style="font-family: Caslon;font-size: 15px; color: #f7dce7;">Instagram</span>
+      <span style="font-family: Georgia;font-size: 15px; color: #f7dce7;">Instagram</span>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td align="center">
       <img src="socialicon2.svg" width="55"><br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <span style="font-family: Caslon;font-size: 15px; color: #f7dce7;">Facebook</span>
+      <span style="font-family: Georgia;font-size: 15px; color: #f7dce7;">Facebook</span>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
     <td align="center">
       <img src="socialicon1.svg" width="55"><br>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <span style="font-family: Caslon;font-size: 15px; color: #f7dce7;">Email</span>
+      <span style="font-family: Georgia;font-size: 15px; color: #f7dce7;">Email</span>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </td>
   </tr>
@@ -48,7 +48,7 @@
 
 
 <div>
-  <span style="font-family: Caslon; font-size: 26px;">Tech Stack </span>
+  <span style="font-family: Georgia; font-size: 26px;">Tech Stack </span>
 </div>
 
 #
