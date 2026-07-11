@@ -1,5 +1,9 @@
- <p align="center">
-  <img src="headername.svg" width="500">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./headerdark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./headerlight.svg">
+  <img src="./headerlight.svg" width="100%" alt="Header">
+</picture>
 </p>
 
 <p align="center">
