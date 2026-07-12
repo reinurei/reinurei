@@ -23,19 +23,19 @@ Currently, I serve as the Operations Head of AWSUG Enovators PH and One of the L
 
 Outside of community work, I'm a Student Assistant at my university's computer laboratory, where I help maintain laboratory computers and support daily technical operations.
 <br clear="left"/>
-<br><br>
+<br>
 
 
 
 <p align="center">
-<img src="./socialsss.svg" width="100%" alt="Header">
+<img src="./socialss.svg" width="100%" alt="Header">
 </p>
 
-<br>
+
 <p align="center">&emsp;&nbsp;
-  <a href="https://www.linkedin.com/in/raven-reign-sabidal-1971a6420/"><img src="./socialicon4.svg" height="70" alt="LinkedIn"></a>&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/raverein_"><img src="./socialicon3.svg" height="70" alt="Instagram"></a>&nbsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;
-  <a href="https://www.facebook.com/rxnreiii"><img src="./socialicon2.svg" height="70" alt="Facebook"></a>&emsp;&nbsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;
+  <a href="https://www.linkedin.com/in/raven-reign-sabidal-1971a6420/"><img src="./socialicon4.svg" height="70" alt="LinkedIn"></a>&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;
+  <a href="https://www.instagram.com/raverein_"><img src="./socialicon3.svg" height="70" alt="Instagram"></a>&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;&emsp;
+  <a href="https://www.facebook.com/rxnreiii"><img src="./socialicon2.svg" height="70" alt="Facebook"></a>&emsp;&nbsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;
   <a href="mailto:ravenreignsabidal0308@gmail.com"><img src="./socialicon1.svg" height="70" alt="Email"></a> 
 </p>
 <p align="center">&nbsp;&emsp;
