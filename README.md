@@ -23,12 +23,12 @@ Currently, I serve as the Operations Head of AWSUG Enovators PH and One of the L
 
 Outside of community work, I'm a Student Assistant at my university's computer laboratory, where I help maintain laboratory computers and support daily technical operations.
 <br clear="left"/>
-<br>
+
 
 
 
 <p align="center">
-<img src="./socialss.svg" width="100%" alt="Header">
+<img src="./socialsheader.svg" width="100%" alt="Header">
 </p>
 
 
@@ -51,17 +51,19 @@ Outside of community work, I'm a Student Assistant at my university's computer l
 </p>
 
 <div align="center">
-  <span style="font-family: Georgia; font-size: 26px;">Tech Stack </span>
+    <img src="./techstackheader.svg" width="100%" alt="Header">
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,r,java,c,mysql,html,css,js,git,vscode,github)](https://skillicons.dev)
 </div>
 
+<br>
 
-
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=3500&pause=1000&color=F48FB1&center=true&vCenter=true&repeat=true&width=600&lines=Women+Empowerment;IT+Sophomore;Aspiring+Data+Analyst;Community+Leader;Building+Technology+for+Impact" alt="Typing SVG" />
