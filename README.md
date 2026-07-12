@@ -25,20 +25,18 @@ Outside of community work, I'm a Student Assistant at my university's computer l
 <br clear="left"/>
 <br><br>
 
+
+
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./social-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./social-light.svg">
-  <img src="./social-light.svg" width="100%" alt="Header">
-</picture>
+<img src="./socialsss.svg" width="100%" alt="Header">
 </p>
 
-
+<br>
 <p align="center">&emsp;&nbsp;
-  <a href="https://www.linkedin.com/in/raven-reign-sabidal-1971a6420/"><img src="./socialicon4.svg" height="60" alt="LinkedIn"></a>&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/raverein_"><img src="./socialicon3.svg" height="60" alt="Instagram"></a>&nbsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;
-  <a href="https://www.facebook.com/rxnreiii"><img src="./socialicon2.svg" height="60" alt="Facebook"></a>&emsp;&nbsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;
-  <a href="mailto:ravenreignsabidal0308@gmail.com"><img src="./socialicon1.svg" height="60" alt="Email"></a> 
+  <a href="https://www.linkedin.com/in/raven-reign-sabidal-1971a6420/"><img src="./socialicon4.svg" height="70" alt="LinkedIn"></a>&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/raverein_"><img src="./socialicon3.svg" height="70" alt="Instagram"></a>&nbsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;
+  <a href="https://www.facebook.com/rxnreiii"><img src="./socialicon2.svg" height="70" alt="Facebook"></a>&emsp;&nbsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;
+  <a href="mailto:ravenreignsabidal0308@gmail.com"><img src="./socialicon1.svg" height="70" alt="Email"></a> 
 </p>
 <p align="center">&nbsp;&emsp;
   <b>LinkedIn</b>&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -46,7 +44,6 @@ Outside of community work, I'm a Student Assistant at my university's computer l
   <b>Facebook</b>&emsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;
   <b>Email</b>&nbsp;&nbsp;
 </p>
-
 <br>
 
 <p align="center">
@@ -62,13 +59,6 @@ Outside of community work, I'm a Student Assistant at my university's computer l
 
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reinurei&theme=flat&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31f6znlilp7ob4vdiqlsr3cpq7a4&cover_image=true&theme=default" />
-</p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
