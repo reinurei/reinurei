@@ -11,7 +11,7 @@
 </p>
 
 
-<h2>Hello, I'm **Raven Reign**! :cherry_blossom*"</h2>
+<h2>Hello, I'm **Raven Reign**! :cherry_blossom:"</h2>
 
 IT sophomore • Aspiring Data Analyst • Community Leader
 
@@ -20,6 +20,8 @@ IT sophomore • Aspiring Data Analyst • Community Leader
 I enjoy managing projects, leading tech communities, and using data and technology to create meaningful impact through inclusivity and women empowerment.
 
 Currently, I serve as the Operations Head of AWSUG Enovators PH and One of the Leads in Build Nights: KiroVerse Workshop Series. I've also had the opportunity to serve as a Program Manager at DEVCON and complete a Quality Assurance Internship at Otis Philippines.
+
+Outside of community work, I'm a Student Assistant at my university's computer laboratory, where I help maintain laboratory computers and support daily technical operations.
 <br clear="left"/>
 <br><br>
 
@@ -33,8 +35,8 @@ Currently, I serve as the Operations Head of AWSUG Enovators PH and One of the L
 
 
 <p align="center">&emsp;&nbsp;
-  <a href="https://www.linkedin.com/in/raven-reign-sabidal-1971a6420/"><img src="./socialicon4.svg" height="60" alt="LinkedIn"></a>&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/raverein_"><img src="./socialicon3.svg" height="60" alt="Instagram"></a>&nbsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;
+  <a href="https://www.linkedin.com/in/raven-reign-sabidal-1971a6420/"><img src="./socialicon4.svg" height="60" alt="LinkedIn"></a>&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/raverein_"><img src="./socialicon3.svg" height="60" alt="Instagram"></a>&nbsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&nbsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;
   <a href="https://www.facebook.com/rxnreiii"><img src="./socialicon2.svg" height="60" alt="Facebook"></a>&emsp;&nbsp;&emsp;&nbsp;&emsp;&emsp;&nbsp;&emsp;&nbsp;&emsp;
   <a href="mailto:ravenreignsabidal0308@gmail.com"><img src="./socialicon1.svg" height="60" alt="Email"></a> 
 </p>
